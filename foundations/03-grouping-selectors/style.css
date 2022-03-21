@@ -1,0 +1,11 @@
+.inverted,
+.fancy {
+    font-size: 28px;
+    color: red;
+}
+.inverted {
+    background-color: green;
+}
+.fancy {
+    background-color: black;
+}
